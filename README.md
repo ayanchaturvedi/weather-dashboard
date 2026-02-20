@@ -4,7 +4,7 @@
 A sleek, minimal weather dashboard that allows users to check the current temperature of any city. The interface features a clean dark mode design with dynamic elements that respond to user input and network states. 
 
 ## 🌐 Live Link
-[View the Live Dashboard Here](https://yourusername.github.io/weather-dashboard) 
+[View the Live Dashboard Here](https://ayanchaturvedi.github.io/weather-dashboard)
 
 ## ✨ Features
 * **City Search:** Users can enter any city name to retrieve real-time weather data.
